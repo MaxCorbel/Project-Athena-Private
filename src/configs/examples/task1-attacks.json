@@ -24,53 +24,27 @@
     "attack": "fgsm",
     "description": "fgsm_eps0.5",
     "eps": 0.5
-  },
   "configs5": {
-    "attack": "deepfool",
-    "description": "df_eps0.1",
-    "eps": 0.1
-  },
-  "configs6": {
-    "attack": "deepfool",
-    "description": "df_eps0.2",
-    "eps": 0.2
-  },
-  "configs7": {
-    "attack": "deepfool",
-    "description": "df_eps0.3",
-    "eps": 0.3
-  },
-  "configs8": {
-    "attack": "deepfool",
-    "description": "df_eps0.4",
-    "eps": 0.4
-  },
-  "configs9": {
-    "attack": "deepfool",
-    "description": "df_eps0.5",
-    "eps": 0.5
-  },
-  "configs10": {
     "attack": "pgd",
     "description": "pgd_eps0.1",
     "eps": 0.1
   },
-  "configs11": {
+  "configs6": {
     "attack": "pgd",
     "description": "pgd_eps0.2",
     "eps": 0.2
   },
-  "configs12": {
+  "configs7": {
     "attack": "pgd",
     "description": "pgd_eps0.3",
     "eps": 0.3
   },
-  "configs13": {
+  "configs8": {
     "attack": "pgd",
     "description": "pgd_eps0.4",
     "eps": 0.4
   },
-  "configs14": {
+  "configs9": {
     "attack": "pgd",
     "description": "pgd_eps0.5",
     "eps": 0.5
