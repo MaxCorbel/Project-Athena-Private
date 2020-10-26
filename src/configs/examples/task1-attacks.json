@@ -1,5 +1,5 @@
 {
-  "num_attacks": 15,
+  "num_attacks": 10,
   "configs0": {
     "attack": "fgsm",
     "description": "fgsm_eps0.1",
